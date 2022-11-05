@@ -14,7 +14,7 @@ const App = () => {
     contract: null,
   });
   const [address, setAddress] = useState(null);
-
+tfhgfhgf
   useEffect(() => {
     const init = async () => {
       try {
